@@ -1,0 +1,9 @@
+= Advent of Code 2023
+
+The Java Year.
+
+I'm doing this in Java/Spring for 2023 because I'm working on 2 major projects that use the Spring framework, despite me NOT DEVELOPING THESE APPS AT ALL.
+
+Yet again, I'm crazy.
+
+_Once more into the breech..._
